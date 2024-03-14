@@ -24,6 +24,7 @@ To properly install and run the frontend, follow these steps:
 2. **Install dependencies:**
 
     ```bash
+    cd employee-management-system/frontend
     npm install
     # or
     yarn install
@@ -39,7 +40,7 @@ To properly install and run the frontend, follow these steps:
     yarn start
     ```
 
-5. **Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the application.**
+5. **Open your browser and navigate to view the application as per your localhost port url.**
 
 ## Backend: Employee Management System
 
@@ -52,14 +53,16 @@ To properly install and run the backend, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your_username/employee-management-system.git
+    git clone <backend_repository_url>
     ```
 
 2. **Install dependencies:**
 
     ```bash
-    cd employee-management-system
+    cd employee-management-system/backend
     npm install
+    # or
+    yarn start
     ```
 
 3. **Start the server:**
