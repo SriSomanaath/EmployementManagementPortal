@@ -1,0 +1,190 @@
+akangksha@bigvisionai.org:
+  FirstName: Akangksha
+  ID: c161dea9-d089-11ee-9a3c-02142eb0dc9
+  LastName: Rawal
+  Role: Sales_User
+  MinTimeInHours: 3
+  MaxTimeInHours: 6
+  SlackEmail: ls-akangksha-aaaamfsrp34cq2fecxd3cl5u4@bigvisionai.slack.com
+amratansh@bigvisionai.org:
+  FirstName: Amratansh
+  ID: 167e47a0-9c0b-11ee-89b1-028a088be96
+  LastName: ''
+  Role: Sales_User
+  MinTimeInHours: -6.5
+  MaxTimeInHours: 12.5
+  SlackEmail: ls-amratansh-aaaalr5g4fnzpevoj32re5iy4@bigvisionai.slack.com
+anjana@bigvisionai.org:
+  FirstName: Anjana
+  ID: e2fcf2f6-6c29-11ee-814d-028a088be96
+  LastName: Agarwal
+  Role: Marketing_User
+  MinTimeInHours: -16
+  MaxTimeInHours: 12.5
+deb@bigvision.org:
+  FirstName: Debopriyo
+  ID: 5c591397-b692-11ee-9a3c-02c12eb0dc9
+  LastName: Shil
+  Role: Sales_User
+  MinTimeInHours: -6.5
+  MaxTimeInHours: 12.5
+  SlackEmail: ls-debopriyo-aaaal2uexnmhkwrrlogl6mdra@bigvisionai.slack.com
+harish@bigvision.org:
+  FirstName: Harish
+  ID: e8028b00-b693-11ee-9a3c-02c142b0dc9
+  LastName: Nair
+  Role: Sales_User
+  MinTimeInHours: -6.5
+  MaxTimeInHours: 12.5
+  SlackEmail: ls-harish-aaaal3re56ljd7eu5x36c2xz4@bigvisionai.slack.com
+harsh@bigvision.org:
+  FirstName: Harsh
+  ID: 919426fd-b693-11ee-9a3c-02c14eb0dc9
+  LastName: Tanna
+  Role: Sales_User
+  MinTimeInHours: -16
+  MaxTimeInHours: -7
+  SlackEmail: ls-harsh-aaaal3r26udqdziytji7o63wa@bigvisionai.slack.com
+kartik@bigvision.org:
+  FirstName: Kartik
+  ID: 15666cc6-26f3-11ee-85f2-028a8a8be96
+  LastName: Naik
+  Role: Sales_User
+  MinTimeInHours: -0.12
+  MaxTimeInHours: -0.13
+  SlackEmail: kartik_ls-aaaalnulegdwaybmd2i4v72bm@bigvisionai.slack.com
+khushboo@bigvision.org:
+  FirstName: Khushboo
+  ID: 58874da4-b693-11ee-9a3c-02c14eb0dc9
+  LastName: Khan
+  Role: Sales_User
+  MinTimeInHours: -6.5
+  MaxTimeInHours: 12.5
+  SlackEmail: ls-khushboo-aaaal22efkd7ghibokw6kphsy@bigvisionai.slack.com
+mayank@bigvision.org:
+  FirstName: Mayank
+  ID: 00dc6604-522c-11ee-814d-028a0a8be96
+  LastName: Sharma
+  Role: Sales_User
+  MinTimeInHours: -6.5
+  MaxTimeInHours: 12.5
+  SlackEmail: mayank_ls-aaaalmjqqq2rfjc2wugqod3wm@bigvisionai.slack.com
+mrityunjay@bigvision.org:
+  FirstName: Mrityunjay
+  ID: 0aeaa6a0-d08a-11ee-9a3c-02c12eb0dc9
+  LastName: Pandey
+  Role: Sales_User
+  MinTimeInHours: 1.01
+  MaxTimeInHours: 1.02
+  SlackEmail: ls-mrityunjay-aaaamgwwpkntczpjw4qdchjqu@bigvisionai.slack.com
+nishan@bigvision.org:
+  FirstName: Nishan
+  ID: d9e1413d-522b-11ee-814d-02808a8be96
+  LastName: Roy
+  Role: Sales_User
+  MinTimeInHours: -16
+  MaxTimeInHours: -7
+  SlackEmail: nishan_ls-aaaalnullhy5ax6zpjrwdiwfe@bigvisionai.slack.com
+pranoti@bigvision.org:
+  FirstName: Pranoti
+  ID: 7455abc4-32bb-11ee-85f2-028a0a8be96
+  LastName: Kalbande
+  Role: Sales_User
+  MinTimeInHours: -6.5
+  MaxTimeInHours: 12.5
+  SlackEmail: pranoti_ls-aaaalmjqicxzfxqkdqgqoqory@bigvisionai.slack.com
+sachin@bigvision.org:
+  FirstName: Sachin
+  ID: 2603eb93-26f1-11ee-85f2-028a8a8be96
+  LastName: Soni
+  Role: Sales_User
+  MinTimeInHours: -6.5
+  MaxTimeInHours: 12.5
+  SlackEmail: sachin_ls-aaaalmjpww3kex5kzs732aosy@bigvisionai.slack.com
+sajin@bigvision.org:
+  FirstName: Sajin
+  ID: c334ca63-b693-11ee-9a3c-02c12eb0dc9
+  LastName: Abraham
+  Role: Sales_User
+  MinTimeInHours: -6.5
+  MaxTimeInHours: 12.5
+  SlackEmail: ls-sajin-aaaal266guddilbwqrvtmiw3i@bigvisionai.slack.com
+satyam@deepvidya.ai:
+  FirstName: Satyam
+  ID: 9b6c4d6f-10ea-11ee-85f2-028a0a8be96
+  LastName: Thakur
+  Role: Administrator
+  MinTimeInHours: -16
+  MaxTimeInHours: 12.5
+  SlackEmail: ls-strategy-aaaalpm4hucek6cckfj2m52om@bigvisionai.slack.com
+sourabh@bigvision.org:
+  FirstName: Sourabh
+  ID: d14ae929-b692-11ee-9a3c-02c142b0dc9
+  LastName: Shetti
+  Role: Sales_User
+  MinTimeInHours: -6.5
+  MaxTimeInHours: 12.5
+  SlackEmail: ls-sourabh-aaaal2oayhjpnyvd4yuj6rwhy@bigvisionai.slack.com
+srinjoy@bigvision.org:
+  FirstName: Srinjoy
+  ID: b791bc70-522b-11ee-814d-02808a8be96
+  LastName: Mitter
+  Role: Sales_User
+  MinTimeInHours: -16
+  MaxTimeInHours: -7
+  SlackEmail: srinjoy_ls-aaaalnbb7kzycpomp6dic2uv4@bigvisionai.slack.com
+sukanya@bigvision.org:
+  FirstName: Sukanya
+  ID: df4e821e-934f-11ee-89b1-028a0a8be96
+  LastName: Sarmah
+  Role: Administrator
+  MinTimeInHours: -16
+  MaxTimeInHours: 12.5
+  SlackEmail: ls-strategy-aaaalpm4hucek6hccfj2m52om@bigvisionai.slack.com
+sunil@bigvision.org:
+  FirstName: Sunil
+  ID: 31daef6a-6da4-11ee-814d-028a088be96
+  LastName: Kuraty
+  Role: Sales_User
+  MinTimeInHours: -6.5
+  MaxTimeInHours: 12.5
+  SlackEmail: sunil_ls-aaaalnbaegcydpl5iowijint4@bigvisionai.slack.com
+surabhi@bigvision.org:
+  FirstName: Surabhi
+  ID: 83c887c5-d089-11ee-9a3c-02c12eb0dc9
+  LastName: Saxena
+  Role: Sales_Use
+  MinTimeInHours: 0.01
+  MaxTimeInHours: 0.02
+  SlackEmail: ls-surabhi-aaaamf7gdwisfcxebdnume3eq@bigvisionai.slack.com
+tejal@bigvision.org:
+  FirstName: Tejal
+  ID: 4c472ed5-d088-11ee-9a3c-02c14eb0dc9
+  LastName: Patel
+  Role: Sales_User
+  MinTimeInHours: 0.01
+  MaxTimeInHours: 0.02
+  SlackEmail: ls-tejal-aaaamgwx4krddkjeoyo4nhmbq@bigvisionai.slack.com
+university@bigvision.org:
+  FirstName: OpenCV
+  ID: 8be7f01c-7e2c-11ee-814d-028a8a8be96
+  LastName: University
+  Role: Administrator
+  MinTimeInHours: -16
+  MaxTimeInHours: 12.5
+  SlackEmail: ls-strategy-aaaalpm4hucekhcckfj2m52om@bigvisionai.slack.com
+vikas@deepvidya.ai:
+  FirstName: Deep Vidya AI Private Limited
+  ID: 18760bb4-074e-11ee-9cef-02b849e23c5
+  LastName: ''
+  Role: Administrator
+  MinTimeInHours: -16
+  MaxTimeInHours: 12.5
+vishnu@bigvision.org:
+  FirstName: Vishnudev
+  ID: e6ba1798-d089-11ee-9a3c-02c12eb0dc9
+  LastName: ''
+  Role: Sales_User
+  MinTimeInHours: 0.01
+  MaxTimeInHours: 0.02
+  SlackEmail: ls-vishnu-aaaamfec6277osziixv5fypdm@bigvisionai.slack.com
